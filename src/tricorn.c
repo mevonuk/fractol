@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   tricorn.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mevonuk <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: mevonuk <mevonuk@student42.fr>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/02 13:09:08 by mevonuk           #+#    #+#             */
 /*   Updated: 2024/01/12 16:22:45 by mevonuk          ###   ########.fr       */

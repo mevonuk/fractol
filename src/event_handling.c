@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   event_handling.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mevonuk <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: mevonuk <mevonuk@student42.fr>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/12 09:04:06 by mevonuk           #+#    #+#             */
 /*   Updated: 2024/01/12 16:31:03 by mevonuk          ###   ########.fr       */

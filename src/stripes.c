@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   stripes.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mevonuk <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: mevonuk <mevonuk@student42.fr>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/15 10:54:09 by mevonuk           #+#    #+#             */
 /*   Updated: 2024/01/15 11:52:58 by mevonuk          ###   ########.fr       */

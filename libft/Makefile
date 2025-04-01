@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mevonuk <marvin@42.fr>                     +#+  +:+       +#+         #
+#    By: mevonuk <mevonuk@student42.fr>             +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/11/08 14:09:32 by mevonuk           #+#    #+#              #
 #    Updated: 2024/01/11 16:45:26 by mevonuk          ###   ########.fr        #

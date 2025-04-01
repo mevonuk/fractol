@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   julia_set.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mevonuk <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: mevonuk <mevonuk@student42.fr>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/02 13:11:55 by mevonuk           #+#    #+#             */
 /*   Updated: 2024/01/12 16:21:16 by mevonuk          ###   ########.fr       */
